@@ -69,8 +69,6 @@
             }
         ]
     },
-    "footer": {
-        "content": "=\"noopener\">now</a>"
-    },
+    "footer": {},
     "domain": "https://ronalmendoza-7b4ec.netlify.app"
 }
