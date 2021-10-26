@@ -22,7 +22,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-  - 
+  
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
