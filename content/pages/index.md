@@ -11,11 +11,7 @@ sections:
     type: section_content
     title: ¿Quién soy?
     content: >
-
-
-      ![](/images/baner.jpg)
-
-
+      # ![](/images/baner.jpg)
 
 
       This is the "about" excerpt. It can be used to provide a paragraph about
