@@ -11,8 +11,8 @@ sections:
     type: section_content
     title: ¿Quién soy?
     content: >
-      ###### Actualmente soy Estudiante de Computación e Informática, en busca
-      de desarrollar Practicas, formando parte de una empresa que me permita
+      Actualmente soy Estudiante de Computación e Informática, en busca de
+      desarrollar Practicas, formando parte de una empresa que me permita
       aplicar todo lo aprendido hasta ahora,  obtener experiencia y seguir
       creciendo tanto personal como profesionalmente para lograr los mejores
       resultados posibles.
