@@ -14,10 +14,11 @@ sections:
       # ![](/images/baner.jpg)
 
 
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      > Actualmente soy Estudiante de Computación e Informática, en busca de
+      desarrollar Practicas, formando parte de una empresa que me permita
+      aplicar todo lo aprendido hasta ahora,  obtener experiencia y seguir
+      creciendo tanto personal como profesionalmente para lograr los mejores
+      resultados posibles.
     actions:
       - label: Contáctame
         url: /contact
