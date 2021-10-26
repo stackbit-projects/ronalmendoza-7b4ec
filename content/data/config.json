@@ -69,6 +69,8 @@
             }
         ]
     },
-    "footer": {},
+    "footer": {
+        "content": "Hecho por Ronal Mendoza "
+    },
     "domain": "https://ronalmendoza-7b4ec.netlify.app"
 }
