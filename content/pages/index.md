@@ -16,6 +16,9 @@ sections:
       aplicar todo lo aprendido hasta ahora,  obtener experiencia y seguir
       creciendo tanto personal como profesionalmente para lograr los mejores
       resultados posibles.
+
+
+      ![](/images/baner-3f3b677a.jpg)
     actions:
       - label: Contáctame
         url: /contact
