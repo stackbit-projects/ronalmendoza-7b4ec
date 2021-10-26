@@ -19,7 +19,7 @@ sections:
       are. There also exists a dedicated about page where you can write more
       about yourself for those who are interested.
     actions:
-      - label: Contact Me
+      - label: Contactame
         url: /contact
         style: button
 seo:
