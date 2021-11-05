@@ -2,7 +2,7 @@
 title: Sobre Mí
 img_path: /images/baner-864db14b.jpg
 seo:
-  title: About Me
+  title: Ronal Mendoza | Sobre Mí
   description: This is the about me page
   extra:
     - name: 'og:type'
