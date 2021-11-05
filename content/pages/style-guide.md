@@ -2,7 +2,7 @@
 title: Style Guide
 subtitle: >-
   Proximamente.
-  
+
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
@@ -34,9 +34,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: page
----
 
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
 
 
 
