@@ -1,8 +1,11 @@
 ---
 title: Contacto
 hide_title: false
-title: ¿Quién soy?
-sections: []
+
+sections: [
+
+    title: ¿Quién soy?
+]
 seo:
   title: Contact
   description: This is the contact page
