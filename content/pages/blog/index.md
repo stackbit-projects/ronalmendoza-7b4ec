@@ -2,7 +2,7 @@
 title: Blog
 seo:
   title: Blog
-  description: This is the blog page
+  description: Ronal Mendoza
   extra:
     - name: 'og:type'
       value: website
