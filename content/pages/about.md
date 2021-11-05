@@ -34,9 +34,8 @@ img_alt: Portrait of a man with beard and mustache
 
 📚 En esta etapa como estudiante he adquirido y sigo adquiriendo conocimientos de diversas tecnologías y lenguajes de programación, gracias a mis conocimientos adquiridos he logrado hacer muchos proyectos con diferentes tecnologías, como Aplicaciones WEB usando Java, C#, .net con acceso a datos como SqlServer, Oracle, MySql.
 
-📘 Adicionalmente de estudiar en Cibertec estudio en Platzi donde tomo cursos de Marketing y amplio mis conocimientos como Programador.
+📘 Adicionalmente de estudiar en Cibertec estudio en Platzi donde tomo cursos para ampliar mis conocimientos como Programador.
 
 🙌 Me apasiona la Programación y las nuevas tecnologías considero que tiene un gran impacto en las Organizaciones grandes como pequeñas, hasta en nuestra vida diaria. Todos consumimos tecnología y quiero ser parte del cambio en un mundo cada vez más digitalizado.
 
 🎯 Mi objetivo es desarrollar practicas formando parte de una empresa que me permita aplicar todo lo aprendido hasta ahora, obtener experiencia y seguir creciendo tanto personal como profesionalmente para lograr los mejores resultados posibles.
-
