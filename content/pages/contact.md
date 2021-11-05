@@ -3,7 +3,7 @@ title: Contacto
 hide_title: false
 
 sections: [
-    
+    title: ¿Quién soy?
 ]
 seo:
   title: Contact
