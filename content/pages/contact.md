@@ -12,7 +12,7 @@ sections:
       LinkedIn:  [Ronal Mendoza](https://www.linkedin.com/in/ronalmendoza/)
 seo:
   title: Ronal Mendoza | Contacto
-  description: This is the contact page
+  description: Ronal Mendoza
   extra:
     - name: 'og:type'
       value: website
