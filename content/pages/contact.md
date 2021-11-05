@@ -4,14 +4,14 @@ hide_title: false
 sections:
   - section_id: about
     type: section_content
-    title:   Este es el comienzo de algo Grande
-    content: |   
+    title: Este es el comienzo de algo Grande
+    content: |
 
       Correo: ronalmendozat@outlook.com
 
       LinkedIn:  [Ronal Mendoza](https://www.linkedin.com/in/ronalmendoza/)
 seo:
-  title: Contact
+  title: Ronal Mendoza | Contacto
   description: This is the contact page
   extra:
     - name: 'og:type'
