@@ -3,7 +3,8 @@ title: Portafolio
 subtitle: Proximamente.
 seo:
   title: Ronal Mendoza | Portafolio
-  description: A reference for suggested typographic treatment and styles for your content
+  description: |
+    Ronal Mendoza
   extra:
     - name: 'og:type'
       value: website
