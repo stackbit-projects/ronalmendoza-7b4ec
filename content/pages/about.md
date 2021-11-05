@@ -1,6 +1,6 @@
 ---
 title: Sobre Mí
-img_path: images/about.jpg
+img_path: /images/baner-864db14b.jpg
 seo:
   title: About Me
   description: This is the about me page
