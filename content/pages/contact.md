@@ -5,8 +5,7 @@ sections:
   - section_id: about
     type: section_content
     title:   Este es el comienzo de algo Grande
-    content: |
-    
+    content: |   
 
       Correo: ronalmendozat@outlook.com
 
