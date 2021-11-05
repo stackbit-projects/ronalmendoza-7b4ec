@@ -6,7 +6,7 @@ sections:
     type: section_content
     title: null
     content: |
-      Este es el comienzo de algo Grande
+    
 
       Correo: ronalmendozat@outlook.com
 
