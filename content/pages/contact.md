@@ -5,7 +5,7 @@ hide_title: false
 sections:
   - section_id: about
     type: section_content
-    title: ¿Quién soy?
+    title: Puedes contactame directamente por mi linkeding
     content: >
       Actualmente soy Estudiante de Computación e Informática, en busca de
       desarrollar Practicas, formando parte de una empresa que me permita
