@@ -42,6 +42,7 @@ seo:
       value: images/8.jpg
       relativeUrl: true
 layout: post
+thumb_img_path: /images/3.jpg
 ---
 
 Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
