@@ -3,7 +3,9 @@ title: Contacto
 hide_title: false
 
 sections: [
-    
+     - section_id: about
+    type: section_content
+    title: ¿Quién soy?
 ]
 seo:
   title: Contact
