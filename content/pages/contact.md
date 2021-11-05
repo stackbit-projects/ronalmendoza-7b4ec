@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - section_id: about
     type: section_content
-    title: null
+    title:   Este es el comienzo de algo Grande
     content: |
     
 
