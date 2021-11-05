@@ -6,7 +6,7 @@
     "header": {
         "title": "Ronal Mendoza",
         "tagline": "Estudiante de Informática",
-        "profile_img": "images/avatar.png",
+        "profile_img": "/images/logo-pequeño.png",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
