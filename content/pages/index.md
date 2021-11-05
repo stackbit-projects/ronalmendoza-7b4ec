@@ -25,7 +25,8 @@ sections:
         style: button
 seo:
   title: Ronal Mendoza | Inicio
-  description: The preview of the Fresh theme
+  description: |
+    Ronal Mendoza
   extra:
     - name: 'og:type'
       value: website
