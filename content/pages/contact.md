@@ -21,5 +21,6 @@ seo:
       value: Contact
     - name: 'twitter:description'
       value: This is the contact page
+       title: ¿Quién soy?
 layout: advanced
 ---
