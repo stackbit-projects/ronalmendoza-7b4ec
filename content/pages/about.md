@@ -31,13 +31,13 @@ seo:
 layout: page
 img_alt: Portrait of a man with beard and mustache
 ---
+🖐 ¡Hola! Soy Ronal, estudiante de Computación e Informática en el Instituto Superior Tecnológico Cibertec.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+📚 En esta etapa como estudiante he adquirido y sigo adquiriendo conocimientos de diversas tecnologías y lenguajes de programación, gracias a mis conocimientos adquiridos he logrado hacer muchos proyectos con diferentes tecnologías, como Aplicaciones WEB usando Java, C#, .net con acceso a datos como SqlServer, Oracle, MySql.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+📘 Adicionalmente de estudiar en Cibertec estudio en Platzi donde tomo cursos de Marketing y amplio mis conocimientos como Programador.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+🙌 Me apasiona la Programación y las nuevas tecnologías considero que tiene un gran impacto en las Organizaciones grandes como pequeñas, hasta en nuestra vida diaria. Todos consumimos tecnología y quiero ser parte del cambio en un mundo cada vez más digitalizado.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+🎯 Mi objetivo es desarrollar practicas formando parte de una empresa que me permita aplicar todo lo aprendido hasta ahora, obtener experiencia y seguir creciendo tanto personal como profesionalmente para lograr los mejores resultados posibles.
 
-*Thank You for reading!*
