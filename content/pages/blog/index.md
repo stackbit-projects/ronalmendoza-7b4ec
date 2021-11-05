@@ -1,7 +1,7 @@
 ---
 title: Blog
 seo:
-  title: Blog
+  title: Blog RonalMendoza
   description: Ronal Mendoza
   extra:
     - name: 'og:type'
