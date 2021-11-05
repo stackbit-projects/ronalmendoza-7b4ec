@@ -1,7 +1,7 @@
 ---
 title: Contacto
 hide_title: false
-- title: ¿Quién soy?
+title: ¿Quién soy?
 sections: []
 seo:
   title: Contact
