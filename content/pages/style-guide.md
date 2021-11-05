@@ -1,10 +1,8 @@
 ---
 title: Portafolio
-subtitle: >-
-  Proximamente.
-  
+subtitle: Proximamente.
 seo:
-  title: Theme Style Guide
+  title: Ronal Mendoza | Portafolio
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
