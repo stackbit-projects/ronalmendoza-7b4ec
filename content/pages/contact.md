@@ -1,17 +1,16 @@
 ---
 title: Contacto
 hide_title: false
-
 sections:
   - section_id: about
     type: section_content
-    title: 
-    content: >
-      Actualmente soy Estudiante de Computación e Informática, en busca de
-      desarrollar Practicas, formando parte de una empresa que me permita
-      aplicar todo lo aprendido hasta ahora,  obtener experiencia y seguir
-      creciendo tanto personal como profesionalmente para lograr los mejores
-      resultados posibles.
+    title: null
+    content: |
+      Este es el comienzo de algo Grande
+
+      Correo: ronalmendozat@outlook.com
+
+      LinkedIn:  [Ronal Mendoza](https://www.linkedin.com/in/ronalmendoza/)
 seo:
   title: Contact
   description: This is the contact page
@@ -31,6 +30,5 @@ seo:
       value: Contact
     - name: 'twitter:description'
       value: This is the contact page
-    
 layout: advanced
 ---
