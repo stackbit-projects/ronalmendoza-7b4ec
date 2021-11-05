@@ -36,7 +36,7 @@ seo:
 layout: page
 ---
 
-hola
+
 
 
 
